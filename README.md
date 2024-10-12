@@ -11,7 +11,7 @@ We deployed multiple WiFi radios in our building and collected data for user dev
 
 ----
 
-- [WiSeHub-AWS-Server](https://github.com/ucsdwcsng/wiros_data_collection)
+- [WiSeHub-AWS-Server](https://github.com/ucsdwcsng/WiSense-AWS-Server)
 - [WiSeHub-Local-Server](https://github.com/WS-UB/WiSense-Local-Server)
 - [WiSeHub-Mobile-Client](https://github.com/WS-UB/WiSense-Mobile-Client)
 
