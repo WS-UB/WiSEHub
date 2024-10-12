@@ -1,4 +1,4 @@
-# WiSeHub: Architecture to deploy a building-scale WiFi-sensing system
+# WiSenseHub: Architecture to deploy a building-scale WiFi-sensing system
 
 The smart buildings of the future need to understand the movement and occupancy of the people in the environment. Using cameras to provide this context can be privacy-invasive. 
 Alternatively, installing dedicated hardware to sense the environment can be cost-prohibitive and limit ubiquitous adoption. 
